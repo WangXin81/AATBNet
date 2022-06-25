@@ -220,7 +220,7 @@ class AATNet(nn.Module):
         mask_loss = self.bce(torch.sigmoid(pp), label)
         edge_loss = self.bce(torch.sigmoid(pp1), edge)
         #re_loss = self.bce(pp1, label)
-        total_loss = 0.8*mask_loss+0.2*edge_loss
+        total_loss = 0.7*mask_loss+0.3*edge_loss   # 7:3 or 8:2
         return [total_loss, mask_loss, edge_loss ]
         
  
