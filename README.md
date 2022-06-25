@@ -32,7 +32,7 @@ dataset|——edges
 
 ## Figs
 
-![image-20210601165926181][(https://github.com/WangXin81/AAT/blob/main/AAT.jpg)]
+![image-20210601165926181](https://github.com/WangXin81/AAT/blob/main/AAT.jpg)
 
 ## Datasets:
 
