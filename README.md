@@ -32,7 +32,7 @@ dataset|——edges
 
 ## Figs
 
-![image-20210601165926181](https://github.com/WangXin81/ACRNet/blob/main/2021-06-01_171017.png)
+![image-20210601165926181][(https://github.com/WangXin81/AAT/blob/main/AAT.bmp)]
 
 ## Datasets:
 
