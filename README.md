@@ -1,7 +1,7 @@
 # AAT
 Attention-Aware Three-Branch Networks for Salient Object Detection in Remote Sensing Images
 
-#### [Xin Wang](https://github.com/WangXin81) , [Zhilu Zhang], Huiyu Zhou
+#### [Xin Wang](https://github.com/WangXin81) , Zhilu Zhang , Huiyu Zhou
 
 
 
@@ -19,7 +19,7 @@ dataset|——edges
 	   |——0002
 	   |——....
        |——labels
-     |——0001
+           |——0001
 	   |——0002
 	   |——....
        |——test.txt
