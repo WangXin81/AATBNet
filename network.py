@@ -136,9 +136,9 @@ class Decoder(nn.Module):
 
     
 
-class DAFNet(nn.Module):
+class AATNet(nn.Module):
     def __init__(self, return_loss, init_path):
-        super(DAFNet, self).__init__()   
+        super(AATNet, self).__init__()   
         ch = [64, 128, 256, 512, 512]
         dr = [2, 4, 8, 16, 16]
         dec_ch = [256, 384, 512, 768]
